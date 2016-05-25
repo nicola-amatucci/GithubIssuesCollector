@@ -38,3 +38,5 @@ Example:
 * [OrmLite](http://ormlite.com/)
 * [jsoup](https://jsoup.org/)
 * [Apache HttpComponents](https://hc.apache.org/)
+* [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
+* [javax.json](https://jsonp.java.net/)
